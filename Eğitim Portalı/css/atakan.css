@@ -1,0 +1,97 @@
+header {
+    background: white!important;
+    padding-top: 5px;
+}
+.navbar{
+    font-family: ubuntu;
+    background: royalblue;
+    border: 0px;
+    outline: 0px;
+    margin-top: 20px;
+}
+.navbar-default .navbar-nav>li>a:hover{
+    background-color: rgb(177, 211, 255)!important;
+    color: rgb(55, 145, 255);
+}
+.content .colon{
+    font:14px/23px "Helvatica Neue",Helvatica,ubuntu,sans-serif;
+    margin: 15px 0px;
+}
+
+.content .colon2 h3{
+    margin:0;
+    padding:0;
+}
+
+.content .colon2 p{
+    
+    font:14px/23px "Helvatica Neue",Helvatica,ubuntu,sans-serif;
+    text-align: justify;
+    margin-top: 15px;
+
+}
+
+footer{
+    background: royalblue;
+    min-height: 220px;
+    padding: 25px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+footer ul{
+    list-style: none;
+     margin: 0;
+     padding: 0;
+}
+
+footer ul span.fBaslik{
+    font:16px/23px "Helvatica Neue",Helvatica,Arial,sans-serif;
+    font-weight: 700;
+    color: white; 
+}
+
+footer ul li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    color: white; 
+}
+
+footer ul li p{
+    list-style: none;
+    margin: 0;
+    padding: 7px 0px;
+    text-decoration: none;
+    color: white;
+}
+
+footer ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+/* genel tanımlar */
+
+.container-fluid{
+    margin:0;
+    padding:0;
+}
+
+.margintop25{
+    margin-top:25px;
+}
+
+.margintop35{
+    margin-top: 25px;
+}
+
+.marginbottom25{
+    margin-bottom: 25px;
+}
+
+.margintop25-hakkimizda{
+    margin-top: 3px;
+}
